@@ -76,7 +76,7 @@ function getWeatherEmoji(weatherId){
             emoji = "☔";
             break;
         case weatherId >= 500 && weatherId < 600:
-            emoji = "☁️";
+            emoji = "🌧️";
             break;
         case weatherId >= 600 && weatherId < 700:
             emoji = "❄️";
