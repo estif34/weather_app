@@ -2,7 +2,11 @@
 A pictorial weather display web application that fetches weather data based on city input made with HTML, CSS and JavaScript. 
 
 ## Demo
+![image](https://github.com/user-attachments/assets/c07b93b7-1fe1-42fe-9db3-9831fe34022a)
 
+![image](https://github.com/user-attachments/assets/e5d3337f-a334-447f-872e-95a78f10ee9e)
+
+![image](https://github.com/user-attachments/assets/05e8db28-d63e-497c-b131-876ed62a8fec)
 
 ## Installation
 
